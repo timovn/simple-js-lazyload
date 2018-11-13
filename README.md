@@ -1,10 +1,6 @@
 # Simple JS lazyload
 by Timo van Neerden, 2018
 
-
-Simple JS.
-No bullshit.
-
 ---
 
 This JS script enables you to have a “lazyload” for the images on your webpages.
@@ -21,4 +17,4 @@ This script also comes with a slightly improvment that reduces CPU load.
 
 ## Demo
 
-[Here](https://lehollandaisvolant.net/tout/examples/lazy-lazyload/)
+- [Here](https://lehollandaisvolant.net/tout/examples/lazy-lazyload/).
