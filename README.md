@@ -4,6 +4,7 @@ by Timo van Neerden, 2018
 
 Simple JS.
 No bullshit.
+
 ---
 
 This JS script enables you to have a “lazyload” for the images on your webpages.
